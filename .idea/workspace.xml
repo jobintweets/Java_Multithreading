@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08656f7b-2ba5-417a-b46c-c5b88bfa4dea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ForkJoin/MyRecursiveAction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.callabeandfuture">
+  <component name="RunManager" selected="Application.MyRecursiveAction">
     <configuration name="Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JoinInThreading.Join" />
       <module name="Multithreading" />
@@ -71,9 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadSynchronization.Synchronise" />
+    <configuration name="MyRecursiveAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForkJoin.MyRecursiveAction" />
       <module name="Multithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForkJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyRecursiveAction" />
         <item itemvalue="Application.callabeandfuture" />
         <item itemvalue="Application.ThreadPool" />
         <item itemvalue="Application.LOCKS" />
         <item itemvalue="Application.Join" />
-        <item itemvalue="Application.Synchronise" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +135,7 @@
       <workItem from="1583390336107" duration="12772000" />
       <workItem from="1583731791295" duration="587000" />
       <workItem from="1583817126938" duration="7603000" />
-      <workItem from="1583903086451" duration="7456000" />
+      <workItem from="1583903086451" duration="8799000" />
     </task>
     <servers />
   </component>
@@ -136,33 +143,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1583915267861">
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1583928409583">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583915267861" />
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583928409583" />
     <state x="503" y="328" width="433" height="247" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583822692990">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="328" width="433" height="247" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1583822692990" />
-    <state width="1440" height="260" key="GridCell.Tab.0.bottom" timestamp="1583918728458">
+    <state width="1440" height="-9" key="GridCell.Tab.0.bottom" timestamp="1583929034591">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="260" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583918728458" />
+    <state width="1440" height="-9" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583929034591" />
     <state width="1398" height="297" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1583908072001" />
-    <state width="1440" height="260" key="GridCell.Tab.0.center" timestamp="1583918728456">
+    <state width="1440" height="-9" key="GridCell.Tab.0.center" timestamp="1583929034589">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="260" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583918728456" />
+    <state width="1440" height="-9" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583929034589" />
     <state width="1398" height="297" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1583908071998" />
-    <state width="1440" height="260" key="GridCell.Tab.0.left" timestamp="1583918728455">
+    <state width="1440" height="-9" key="GridCell.Tab.0.left" timestamp="1583929034588">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="260" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583918728455" />
+    <state width="1440" height="-9" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583929034588" />
     <state width="1398" height="297" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1583908071997" />
-    <state width="1440" height="260" key="GridCell.Tab.0.right" timestamp="1583918728457">
+    <state width="1440" height="-9" key="GridCell.Tab.0.right" timestamp="1583929034590">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="260" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583918728457" />
+    <state width="1440" height="-9" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583929034590" />
     <state width="1398" height="297" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1583908071999" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1583390435951">
       <screen x="0" y="0" width="1440" height="900" />
