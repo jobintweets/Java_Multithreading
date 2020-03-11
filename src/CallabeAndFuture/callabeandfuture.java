@@ -17,7 +17,7 @@ public class callabeandfuture {
     ExecutorService exs= Executors.newFixedThreadPool(10);
     for(int i=0;i<5;i++){
  future=exs.submit(new Task());
- //the get() method blocks the main thread .
+ //the get() method blocks the main thread
       String result=future.get();
       System.out.println(result);
     }
